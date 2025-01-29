@@ -2,7 +2,7 @@
 
 ## Overview
 
-`ScratchToReveal` is a Flutter widget that mimics a scratch card effect. Users can scratch off a gradient overlay to reveal hidden content beneath. Once a certain percentage of the surface is scratched, the content is fully revealed with an animation.
+`ScratchToReveal` is a custom component that mimics a scratch card effect. Users can scratch off a gradient overlay to reveal hidden content beneath. Once a certain percentage of the surface is scratched, the content is fully revealed with an animation.
 
 # Features
 
