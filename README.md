@@ -1,16 +1,13 @@
-# scratch_to_reveal
+# ScratchToReveal
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+`ScratchToReveal` is a Flutter widget that mimics a scratch card effect. Users can scratch off a gradient overlay to reveal hidden content beneath. Once a certain percentage of the surface is scratched, the content is fully revealed with an animation.
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Scratch effect using touch gestures
+- Gradient overlay for the scratchable area
+- Configurable scratch percentage threshold
+- Smooth scratch strokes with a custom painter
+- Reveal animation once the scratch threshold is met
